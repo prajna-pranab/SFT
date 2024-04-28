@@ -12,7 +12,6 @@ To work with the complete assembly you will need to install the following  addon
 For full details on what this SFT device is visit my [website](https://tomboy-pink.co.uk/SFT/)
 
 There's plenty more to do. Some things that need checking in this model: Fitting and clearence of the holes that receive shafts and axles; I've only been working with FreeCAD for a month, so a level of inexpertise may be obvious to some skilled in the art and science of it; Still work to do on the render setup (still learning about that); I've never 3D printed anything and those who have may look at this design in horror at the lack of support or extravagant use of filament and probably other stuff I have no idea about, so I hope to find some pointers on that at our local(ish) FabLab and the design may dramatically change when I've been there. Feel free to raise an issue if you see something that could be better.
-<<<<<<< HEAD
 
 ## Feedback and involvement
 
