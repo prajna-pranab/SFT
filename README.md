@@ -25,5 +25,3 @@ Here's the [Discussion][Discussion].
 To follow any activity in the repository, switch on the `Watch` functionality. If you find the project interesting, please star the repository. Starring a repository also shows appreciation to the repository maintainer for their work. You can star repositories and topics to keep track of projects you find interesting and discover related content in your news feed. Check out [Saving repositories with stars](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) to get more.
 
 [Discussion]: https://github.com/prajna-pranab/SFT/discussions
-=======
->>>>>>> main
