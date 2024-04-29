@@ -5,7 +5,7 @@ This is a [FreeCAD](https://freecad.org/) project to model the [Switched Flux Tr
 
 *SFT-Mk4 initial render. I'll improve the lighting and materials for the next render*
 
-The model is organised as an Assembly 4 project and the assembly is contained in [asm_SFT-Mk4.FCStd](./asm_SFT-Mk4.FCStd).
+The model is organised as an Assembly 4 project and the assembly is contained in [asm_SFT-Mk4.FCStd](./asm_SFT-Mk4.FCStd), so open that file in FreeCAD and it will open all the other parts. Once you've opened the project file, switch to the Assembly 4 Workbench and look near the top of the tree for the Variables object. In the Variables object properties you will find a Variable called _Rotor Angle_, everything else is connected to the rotor axle and you can adjust the position of anything that moves by changing the value of _Rotor Angle_. You can also click the Animate Assembly button and select _Rotor Angle_ as the variable to control.
 
 To work with the complete assembly you will need to install the following  addons via the FreeCAD Addons Manager: Assembly 4 Workbench; Fasteners Workbench; for rendering, the Render Workbench.
 
