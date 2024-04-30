@@ -1,7 +1,8 @@
 # SFT Mk 4 - FreeCAD Project
 This is a [FreeCAD](https://freecad.org/) project to model the [Switched Flux Transmission](https://tomboy-pink.co.uk/SFT/) device invented by Prajna Pranab.
 
-![SFT-Mk4 render 3](https://github.com/prajna-pranab/SFT/assets/4018272/df0dda66-6ef6-4c7e-9765-92e2119616b3)
+![SFT-Mk4 render 4](https://github.com/prajna-pranab/SFT/assets/4018272/6b591713-40b3-4eb1-85a9-4bf1a5c62d39)
+
 
 *SFT-Mk4 initial render. I'll improve the lighting and materials for the next render*
 
