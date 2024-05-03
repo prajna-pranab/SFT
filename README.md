@@ -7,7 +7,7 @@ This is a [FreeCAD](https://freecad.org/) project to model the [Switched Flux Tr
 
 To work with the complete assembly you will need to install the following  addons via the FreeCAD Addons Manager: Assembly 4 Workbench; Fasteners Workbench; for rendering, the Render Workbench.
 
-The model is organised as an Assembly 4 project and the assembly is contained in [asm_SFT-Mk4.FCStd](./asm_SFT-Mk4.FCStd), so open that file in FreeCAD and it will open all the other parts. Once you've opened the project file, switch to the Assembly 4 Workbench and look near the top of the tree for the Variables object. In the Variables object properties you will find a Variable called _Rotor Angle_, everything else is connected to the rotor axle and you can adjust the position of anything that moves by changing the value of _Rotor Angle_. You can also click the Animate Assembly button and select _Rotor Angle_ as the variable to control.
+The model is organised as an Assembly 4 project and the assembly is contained in [asm_SFT-Mk4.FCStd](./asm_SFT-Mk4.FCStd), so open that file in FreeCAD and it will open all the other parts. Once you've opened the project file, switch to the Assembly 4 Workbench and look near the top of the tree for the Variables object. In the Variables object properties you will find a Variable called _Rotor Angle_. The moveable parts positions are all calculated from the rotor axle's angle (specified in _Rotor Angle_) and you can adjust the state of the model by changing the value of _Rotor Angle_. You can also click the Animate Assembly button and select _Rotor Angle_ as the variable to control.
 
 For full details on what this SFT device is visit my [website](https://tomboy-pink.co.uk/SFT/)
 
@@ -16,6 +16,10 @@ There's plenty more to do. Some things that need checking in this model: Fitting
 ## Update
 
 I went to visit my local [FabLab](https://www.fablabs.io/labs/fablabaldeiasdoxisto) to discuss the project. The guy I spoke to seems to think (from a quick look at the rendered image) that the model will be easy to print but there is a week-long event at the lab this week, so it will probably be next week before there is an opportunity to sit down with them.
+
+## Acknowledgements
+
+A big shout out to Robert Murray-Smith, whose video about the Wesley Gary magnetic motor inspired this device. The wonderful renders could not have been done without the dedication and prompt updating of the FreeCAD Render Workbench by @howetuft to address issues I was having.
 
 ## Feedback and involvement
 
