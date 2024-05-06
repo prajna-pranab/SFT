@@ -1,9 +1,9 @@
 # SFT Mk 4 - FreeCAD Project
 This is a [FreeCAD](https://freecad.org/) project to model the [Switched Flux Transmission](https://tomboy-pink.co.uk/SFT/) device invented by Prajna Pranab.
 
-![cycles rende 3](https://github.com/prajna-pranab/SFT/assets/4018272/26da41cb-bbeb-4003-bb92-af13f171cc69)
+![luxcorerender1](https://github.com/prajna-pranab/SFT/assets/4018272/507b2ab9-f08d-45ae-ac46-6c79fb8a82e0)
 
-*SFT-Mk4 render image*
+*SFT-Mk4 render image (using Luxcore)*
 
 To work with the complete assembly you will need to install the following  addons via the FreeCAD Addons Manager: Assembly 4 Workbench; Fasteners Workbench; for rendering, the Render Workbench.
 
