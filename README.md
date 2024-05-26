@@ -17,6 +17,8 @@ There's plenty more to do. Some things that need checking in this model: Fitting
 
 I went to visit my local [FabLab](https://www.fablabs.io/labs/fablabaldeiasdoxisto) to discuss the project. The guy I spoke to seems to think (from a quick look at the rendered image) that the model will be easy to print but there is a week-long event at the lab this week, so it will probably be next week before there is an opportunity to sit down with them.
 
+26 May 24 - I returned to FabLab and was given a run-through of Prusa Slicer, installed and configured it on my laptop and then laid out the printable parts in Prusa. I also emailed https://www.coleherne.co.uk/, who specialise in electrical steel laminations, to ask for advice on the suitability of electrical steel for the Tabs/Fingers. They claim to offer such expertise and have a department for prototyping laminations using a laser cutter. Hopefully they will not be put off responding because it "looks like a free energy device."
+
 ## Acknowledgements
 
 A big shout out to Robert Murray-Smith, whose video about the Wesley Gary magnetic motor inspired this device. The wonderful renders could not have been done without the dedication and prompt updating of the FreeCAD Render Workbench by @howetuft to address issues I was having.
