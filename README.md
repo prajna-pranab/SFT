@@ -19,6 +19,8 @@ I went to visit my local [FabLab](https://www.fablabs.io/labs/fablabaldeiasdoxis
 
 26 May 24 - I returned to FabLab and was given a run-through of Prusa Slicer, installed and configured it on my laptop and then laid out the printable parts in Prusa. I also emailed https://www.coleherne.co.uk/, who specialise in electrical steel laminations, to ask for advice on the suitability of electrical steel for the Tabs/Fingers. They claim to offer such expertise and have a department for prototyping laminations using a laser cutter. Hopefully they will not be put off responding because it "looks like a free energy device."
 
+2 June 24 - Didn't hear back from Coleherne Ltd re laminations so have emailed three other lamination companies. Everything is laid out for printing and we're off to FabLab tomorrow to do that. I have started a new branch "capnut" because it was not easy to source inserts and grubscrews easily locally so I have refactored things to use captive nuts rather than inserts. That involved resizing various hubs and modifying/moving other parts to accommodate the nuts.
+
 ## Acknowledgements
 
 A big shout out to Robert Murray-Smith, whose video about the Wesley Gary magnetic motor inspired this device. The wonderful renders could not have been done without the dedication and prompt updating of the FreeCAD Render Workbench by @howetuft to address issues I was having.
